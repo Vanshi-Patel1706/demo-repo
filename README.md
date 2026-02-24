@@ -1,4 +1,4 @@
 # demo-repo
 This is my first Repository.
 <br>
-Author: Vanshi Patel.
+Author: Vanshi {demo repo}
